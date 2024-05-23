@@ -29,6 +29,7 @@ The analysis revealed that the Human Resources and sales department havethe high
    Implement strategies to boost employee engagement, such as regular feedback session and opportunities for skill developnment and career advancement.
 2. Improve work-life balance
    Promote a healthy life balance by offering flexible work arrangement, promoting wellness programs, and encouraging manager to support their teams in managing workload and stress.
-3. Priotise the professional development of young employees
-    Given that the young employees often seek career growth and development, it is recommended that the company provide additional training and develpoment opportunities specifically tailored to this demographic. Young employees with higher level of education should receive salaries commensurate with their qualifications and experience.   
+3. Prioritize the professional development of young employees
+   Given that the young employees often seek career growth and development, it is recommended that the company provide additional training and develpoment opportunities specifically 
+   tailored to this demographic. Young employees with higher level of education should receive salaries commensurate with their qualifications and experience.   
    
