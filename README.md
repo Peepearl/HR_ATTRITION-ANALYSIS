@@ -19,6 +19,15 @@ in the initial data preparation phase, we follpwing tasks were oerforemed;
 ### Exploratory Data Analysis
 Upon loading the dataset, i found out that it consist of 1471 rows and 35 colums, a total of 1,470 employees, the distribution of attrition status with 237 as "Attritio" and 1233 with "No Attrition. Basics statistics indicated a wide range among employees with a average age of 40years.
 
-###
+### Result and findings
+The analysis revealed that the Human Resources and sales department havethe highest attrition rate, upon further examination of specific job position within these department,Human Resource, Research Directors and sales Representative emerged as the top three rols with the highest attrition rates. we have 37 total employee as low performance for attrition rate and 200 employees as high performance, Average age for each employ is 40years, sales and Human Resource department have the lowest monthly income by attrition.
 
-###   
+
+### Recommendation
+1. Enhance Employee Enagagement
+   Implement strategies to boost employee engagement, such as regular feedback session and opportunities for skill developnment and career advancement.
+2. Improve work-life balance
+   Promote a healthy life balance by offering flexible work arrangement, promoting wellness programs, and encouraging manager to support their teams in managing workload and stress.
+3. Priotise the professional development of young employees
+    Given that the young employees often seek career growth and development, it is recommended that the company provide additional training and develpoment opportunities specifically tailored to this demographic. Young employees with higher level of education should receive salaries commensurate with their qualifications and experience.   
+   
