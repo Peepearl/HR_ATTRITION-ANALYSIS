@@ -18,6 +18,7 @@ in the initial data preparation phase, we follpwing tasks were oerforemed;
 
 ### Exploratory Data Analysis
 Upon loading the dataset, i found out that it consist of 1471 rows and 35 colums, a total of 1,470 employees, the distribution of attrition status with 237 as "Attritio" and 1233 with "No Attrition. Basics statistics indicated a wide range among employees with a average age of 40years.
+![Picture1](https://github.com/Peepearl/Listing_Dataset/assets/99322339/4fb3c101-764a-4f8c-9235-ddc66209576f)
 
 ### Result and findings
 The analysis revealed that the Human Resources and sales department havethe highest attrition rate, upon further examination of specific job position within these department,Human Resource, Research Directors and sales Representative emerged as the top three rols with the highest attrition rates. we have 37 total employee as low performance for attrition rate and 200 employees as high performance, Average age for each employ is 40years, sales and Human Resource department have the lowest monthly income by attrition.
