@@ -1,4 +1,4 @@
-# HR Attrition Dataset
+# HR Attrition Analysis
 
 ### Project Overview
 The HR Attrition Report provides  comprehensive insights into employee attrition and factors that contribute to employee attrition.The report include various visualizations such as bar charts, doughnut charts to provide a comprehensive overview of the data. The report include key metrics such as the attrition rate, which measure the percentage of the employees who left the company, and the average age of employees. The report also provides insights into the factors that contribute to attrition,such as job role,satisfaction,work distance,education. In all, the HR Attrition Analysis provide valuable insights into employee attrition trends and factors, allowing organisations to make data-driven decisions to improve employee retention.
