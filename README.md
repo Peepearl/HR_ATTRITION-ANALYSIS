@@ -17,7 +17,7 @@ in the initial data preparation phase, we follpwing tasks were oerforemed;
 4. Data cleaning and formatting
 
 ### Exploratory Data Analysis
-Upon loading the dataset, i found out that it consist of 1471 rows and 35 colums, a total of 1,470 employees, the distribution of attrition status with 237 as "Attritio" and 1233 with "No Attrition. Basics statistics indicated a wide range among employees with a average age of 40years.
+Upon loading the dataset, i found out that it consist of 1471 rows and 35 colums, a total of 1,470 employees, the distribution of attrition status with 237 as "Attrition" and 1233 with "No Attrition. Basics statistics indicated a wide range among employees with a average age of 40years.
 ![Picture1](https://github.com/Peepearl/Listing_Dataset/assets/99322339/4fb3c101-764a-4f8c-9235-ddc66209576f)
 
 ### Result and findings
